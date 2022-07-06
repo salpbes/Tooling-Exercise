@@ -12,4 +12,4 @@ async function loadIfc(url) {
     viewer.shadowDropper.renderShadow(model.modelID);
 }
 
-loadIfc("C:\Users\AlperBeser\Desktop\RAC_basic_sample_project.ifc");
+loadIfc('./RAC_basic_sample_project.ifc');
